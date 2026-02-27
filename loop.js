@@ -15,5 +15,5 @@ const employee = {
 }
 
 for(const emp in employee){
-    console.log(employee[emp]);
+    // console.log(employee[emp]);
 }
